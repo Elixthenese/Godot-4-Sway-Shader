@@ -3,6 +3,9 @@ Does not include any maps besides albedo and normal.
 Uses Godot's alpha scissor clip.
 Made with help of ChatGPT.
 
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/6130ce1c-c777-4b29-ac52-cbf5e7022c6a)
+
+
 There 3 shaders:
 Sway_Move_ALL.
 Move whole sprite realative to the bottom. Bottom still moves, so it would be a right choice for grass.
