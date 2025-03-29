@@ -1,6 +1,7 @@
 Free and simple Godot 4 sway shaders for any type of leafs or grass. Just copy the code and past it into newly created shader.
 Does not include any maps besides albedo and normal.
 Uses Godot's alpha scissor clip.
+Made with help of ChatGPT.
 
 There 3 shaders:
 Sway_Move_ALL.
