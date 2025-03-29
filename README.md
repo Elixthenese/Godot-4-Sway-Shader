@@ -9,6 +9,10 @@ Made with help of ChatGPT.
 There 3 shaders:
 
 
+
+
+
+
 Sway_Move_ALL.
 
 Move whole sprite realative to the bottom. Bottom still moves, so it would be a right choice for grass.
@@ -16,9 +20,17 @@ Move whole sprite realative to the bottom. Bottom still moves, so it would be a 
 
 
 
+
+
+
+
 Sway_Bottom_STILL.
 
 Same as previous one only with a locked bottom. Great for both grass and leafs.
+
+
+
+
 
 
 
